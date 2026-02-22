@@ -1,2 +1,13 @@
-# revenue-insights-hospitality
-Revenue Insights Dashboard for Hospitality (Atliq Grands) using 90 days of revenue, occupancy, and booking-channel data. Includes data cleaning, star schema modeling, DAX KPIs (RevPAR, ADR, Occupancy%, Realization%), and an interactive Power BI report with insights to support revenue recovery decisions.
+# Revenue Insights Dashboard – Hospitality Domain (Atliq Grands)
+
+A portfolio analytics project using 90 days of hotel revenue, occupancy, and booking-channel data to identify drivers behind declining performance and build an interactive Power BI dashboard with actionable insights.
+
+## Status
+Not started yet (repo initialized)
+
+## Planned Work
+- Prepare and clean the dataset
+- Build a star schema model
+- Create DAX KPIs (Revenue, RevPAR, ADR, Occupancy%, Realization%)
+- Develop a Power BI dashboard with executive + drilldown pages
+- Document insights and recommendations
