@@ -45,25 +45,22 @@ The dashboard will track and analyze:
 
 ## Repository Structure
 
-data/
+revenue-insights-hospitality/
 │
-├── raw/ # Raw datasets (original source files)
-├── processed/ # Cleaned datasets ready for Power BI
+├── data/
+│ ├── raw/ # Raw datasets (original source files)
+│ └── processed/ # Cleaned datasets ready for Power BI
 │
-powerbi/
+├── powerbi/
 │ └── Revenue_Insights.pbix # Power BI project file
 │
-screenshots/ # Dashboard preview images
-docs/ # Data dictionary, insights & recommendations
+├── screenshots/ # Dashboard preview images
+├── docs/ # Data dictionary, insights & recommendations
+│
+├── .gitignore
+└── README.md
 
-
-Additional files:
-- `.gitignore`
-- `README.md`
-
----
-
-## 🚀 Project Workflow
+##  Project Workflow
 
 1. Raw data stored in `data/raw`
 2. Data cleaning & preparation → saved to `data/processed`
