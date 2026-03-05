@@ -4,7 +4,7 @@ A portfolio analytics project using 90 days of hotel revenue, occupancy, and boo
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 Analyze operational performance for Atliq Grands to:
 
